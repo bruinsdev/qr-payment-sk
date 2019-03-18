@@ -1,0 +1,13 @@
+{
+  "name": "qr-payment-sk",
+  "version": "0.0.0",
+  "description": "QR payment Slovakia",
+  "main": "src/index.js",
+  "repository": "git@github.com:bruinsdev/qr-payment-sk.git",
+  "author": "andreas4all <andreas4all@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "lzma": "^2.3.2"
+  }
+}
